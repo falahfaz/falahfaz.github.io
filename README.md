@@ -5,7 +5,4 @@
 
 ### Below you can find all my works 
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/b206e4a2-6fb0-4675-a96f-cfe8d256476c) "Logo Title Text 2"
+![11_Waves_Main_Menu](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/20aea92b-8d69-4f4f-bee7-89de9ff0ceac)
