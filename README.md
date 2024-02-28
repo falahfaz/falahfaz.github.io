@@ -1,6 +1,6 @@
-# Welcome to my portfolio!
+# Welcome to my portfolio! <br />
 
-## My name is Falah. I'm an experienced roblox developer with over 4 year of experience on the platform.
+## My name is Falah. I'm an experienced roblox developer with over 4 year of experience on the platform. <br />
 ## I specialise in scripting and building and have also done some UI designing. <br />
 
 
