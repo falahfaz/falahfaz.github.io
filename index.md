@@ -12,7 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me
 
-Hi, my name is Falah, also known as Xx_FROSTBITExX on Roblox. I'm an avid developer with over 4 years of experience on the platform.
+Hi, my name is Falah, also known as Xx_FROSTBITExX on ROBLOX. 
+Joining ROBLOX in April 2017, I was instantly drawn in by the idea of creating something fun.
+Since then I have contributed to several games (including my own) amassing over 4 years of experience on the platform.
 
 ## Header 2
 
