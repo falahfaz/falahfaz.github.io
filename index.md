@@ -1,4 +1,4 @@
----
+![Tornado VFX](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/f1784efe-3e60-445f-83c1-e61af14e1940)---
 layout: default
 ---
 
@@ -45,22 +45,20 @@ My solution to the head bob is open sourced and can be found at [This devforum p
 Modelling the particles' motion uses calculus to obtain a path relative to the properties of the particle.
 ![Particle Motion](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/cb8d6b75-3261-4151-96e5-1e3fd69acb5c)
 
-A simple kamehameha VFX inspired by DBZ
+An interactable inventory system that allows for seamless dragging of inventory.
+![Interactable Inventory UI](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/eba48a19-f9c0-4258-b7c0-2435122ff225)
+
+A simple kamehameha VFX  
 ![Kamehameha VFX](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/69367299-e99d-4d1b-931b-fdf9aa402497)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+A simple tornado VFX 
+![Tornado VFX](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/50e9f11a-0e36-40fc-8a4c-0f18ff9cfa47)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## UI Designing
+_The following are examples of my UI designs._
+
+![alt text][logo 6]
+
+[logo 6]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/581f3d6f-888f-48b0-9cc6-0c9800c003a0 "Inventory UI"
 
 ```
