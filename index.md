@@ -12,6 +12,8 @@ I also dabble in a bit of UI designing.
 
 # My Work
 
+## Building
+
 _The following are examples of my builds._
 ![alt text][logo]
 
@@ -19,7 +21,21 @@ _The following are examples of my builds._
 
 ![alt text][logo 2]
 
-[logo 2]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/132ec870-7558-4b1a-8ad3-997876bbe2e3 "Low_Poly_Islands"
+[logo 2]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/132ec870-7558-4b1a-8ad3-997876bbe2e3 "Low Poly Islands"
+
+![alt text][logo 3]
+
+[logo 3]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/3ef65222-eaea-490e-bbed-e1af0428bea8 "Low Poly Island Hut"
+
+![alt text][logo 4]
+
+[logo 4]: (https://github.com/falahfaz/falahfaz.github.io/assets/140397265/d862137d-1b1f-4630-9c45-f78bec95472d "Low Poly Island Hut"
+
+## Scripting
+
+_The following are examples of things I have scripted._
+
+
 
 ## Header 2
 
