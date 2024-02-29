@@ -34,9 +34,9 @@ _The following are examples of my builds._
 ## Scripting
 _The following are examples of things I have scripted._
 
-https://github.com/falahfaz/falahfaz.github.io/assets/140397265/53379bfe-8d7b-49c0-9970-83db84087138
+![Head Bob](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/662dece2-377d-4885-8ee3-bc2008a212bb)
 
-https://github.com/falahfaz/falahfaz.github.io/assets/140397265/3f01482c-6ed7-419a-b062-5e53777b9014
+![Particle Motion](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/6d46e0b2-968e-4273-8d09-01338971af74)
 
 
 ## Header 2
