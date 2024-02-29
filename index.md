@@ -34,6 +34,9 @@ _The following are examples of my builds._
 ## Scripting
 _The following are examples of things I have scripted._
 
+https://github.com/falahfaz/falahfaz.github.io/assets/140397265/53379bfe-8d7b-49c0-9970-83db84087138
+
+https://github.com/falahfaz/falahfaz.github.io/assets/140397265/3f01482c-6ed7-419a-b062-5e53777b9014
 
 
 ## Header 2
