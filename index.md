@@ -40,10 +40,10 @@ _The following are examples of things I have scripted._
 
 A simple head bob that uses trigonometry to create an effect when the player is walking. 
 My solution to the head bob is open sourced and can be found at [This devforum post](https://devforum.roblox.com/t/creating-steady-camera-head-bob/1510676/3)
-![Head Bob](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/662dece2-377d-4885-8ee3-bc2008a212bb)
+![Head Bob](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/e69cb029-cbeb-4ac6-9f92-9464d76ce3b6)
 
 Modelling the particles' motion uses calculus to obtain a path relative to the properties of the particle.
-![Particle Motion](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/6d46e0b2-968e-4273-8d09-01338971af74)
+![Particle Motion](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/cb8d6b75-3261-4151-96e5-1e3fd69acb5c)
 
 A simple kamehameha VFX inspired by DBZ
 ![Kamehameha VFX](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/69367299-e99d-4d1b-931b-fdf9aa402497)
