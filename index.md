@@ -13,8 +13,18 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # About Me
 
 Hi, my name is Falah, also known as Xx_FROSTBITExX on ROBLOX. 
-Joining ROBLOX in April 2017, I was instantly drawn in by the idea of creating something fun.
-Since then I have contributed to several games (including my own) amassing over 4 years of experience on the platform.
+I joined ROBLOX in April of 2017 and was instantly drawn in by the idea of creating something fun.
+I decided to try scripting a go and to my suprise I ended up liking it.
+As of 2024, I have over 4 years of experience scripting and 2 years of experience building.
+
+# My Work
+
+_The following are examples of my builds._
+![11_Waves_Main_Menu](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/56f34ee6-a4bb-444f-92b6-1da355e0b7d7)
+
+
+![Islands](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/cc7b6449-9a0a-4849-a264-790202835d36)
+
 
 ## Header 2
 
