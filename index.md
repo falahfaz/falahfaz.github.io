@@ -35,8 +35,11 @@ _The following are examples of my builds._
 _The following are examples of things I have scripted._
 
 ![Head Bob](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/662dece2-377d-4885-8ee3-bc2008a212bb)
+- The head bob uses simple trigonometry to create an effect when the player is walking.
 
 ![Particle Motion](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/6d46e0b2-968e-4273-8d09-01338971af74)
+- Modelling the particles' motion uses calculus to obtain a path relative to the properties of the particle.
+
 
 
 ## Header 2
