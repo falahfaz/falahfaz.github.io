@@ -1,4 +1,4 @@
-![image](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/e372d254-6144-43b7-b5ba-6334b2ed5382)---
+---
 layout: default
 ---
 
