@@ -13,8 +13,8 @@ I also dabble in a bit of UI designing.
 # My Work
 
 ## Building
-
 _The following are examples of my builds._
+
 ![alt text][logo]
 
 [logo]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/56f34ee6-a4bb-444f-92b6-1da355e0b7d7 "High Poly Menu"
@@ -29,10 +29,9 @@ _The following are examples of my builds._
 
 ![alt text][logo 4]
 
-[logo 4]: (https://github.com/falahfaz/falahfaz.github.io/assets/140397265/d862137d-1b1f-4630-9c45-f78bec95472d "Low Poly Island Hut"
+[logo 4]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/d862137d-1b1f-4630-9c45-f78bec95472d "Low Poly Island Hut"
 
 ## Scripting
-
 _The following are examples of things I have scripted._
 
 
