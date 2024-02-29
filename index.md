@@ -1,4 +1,4 @@
----
+![image](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/e372d254-6144-43b7-b5ba-6334b2ed5382)---
 layout: default
 ---
 
@@ -31,14 +31,20 @@ _The following are examples of my builds._
 
 [logo 4]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/d862137d-1b1f-4630-9c45-f78bec95472d "Low Poly Island Hut"
 
+![alt text][logo 5]
+
+[logo 5]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/ccafff80-c6f6-4c5c-a02e-458b35f09d39 "Low Poly Sci-Fi Hallway"
+
 ## Scripting
 _The following are examples of things I have scripted._
 
+A simple head bob that uses trigonometry to create an effect when the player is walking. 
+My solution to the head bob is open sourced and can be found at https://devforum.roblox.com/t/creating-steady-camera-head-bob/1510676/3 
 ![Head Bob](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/662dece2-377d-4885-8ee3-bc2008a212bb)
-- The head bob uses simple trigonometry to create an effect when the player is walking.
 
+Modelling the particles' motion uses calculus to obtain a path relative to the properties of the particle.
 ![Particle Motion](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/6d46e0b2-968e-4273-8d09-01338971af74)
-- Modelling the particles' motion uses calculus to obtain a path relative to the properties of the particle.
+
 
 
 
