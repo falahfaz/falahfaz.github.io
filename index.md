@@ -1,4 +1,3 @@
-![Tornado VFX](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/f1784efe-3e60-445f-83c1-e61af14e1940)---
 layout: default
 ---
 
