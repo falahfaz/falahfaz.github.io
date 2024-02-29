@@ -1,4 +1,3 @@
----
 # About Me
 
 Hi, my name is Falah, also known as Xx_FROSTBITExX on ROBLOX. 
@@ -57,5 +56,3 @@ _The following are examples of my UI designs._
 ![alt text][logo 6]
 
 [logo 6]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/581f3d6f-888f-48b0-9cc6-0c9800c003a0 "Inventory UI"
-
-```
