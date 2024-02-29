@@ -19,8 +19,7 @@ _The following are examples of my builds._
 
 ![alt text][logo]
 
-[logo]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/cc7b6449-9a0a-4849-a264-790202835d36 "Low_Poly_Islands"
-
+[logo]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/5393ab9e-3a93-4185-ac3b-64acd431d1d2 "Low_Poly_Islands"
 
 ## Header 2
 
