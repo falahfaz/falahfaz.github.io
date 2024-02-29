@@ -2,14 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # About Me
 
 Hi, my name is Falah, also known as Xx_FROSTBITExX on ROBLOX. 
@@ -21,7 +13,7 @@ I also dabble in a bit of UI designing.
 # My Work
 
 _The following are examples of my builds._
-![High_Poly_Menu](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/56f34ee6-a4bb-444f-92b6-1da355e0b7d7)
+![High_Poly_Menu](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/56f34ee6-a4bb-444f-92b6-1da355e0b7d7.png)
 
 
 ![Low_Poly_Islands](https://github.com/falahfaz/falahfaz.github.io/assets/140397265/cc7b6449-9a0a-4849-a264-790202835d36)
