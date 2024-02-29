@@ -17,9 +17,9 @@ _The following are examples of my builds._
 
 [logo]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/56f34ee6-a4bb-444f-92b6-1da355e0b7d7 "High Poly Menu"
 
-![alt text][logo]
+![alt text][logo 2]
 
-[logo]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/5393ab9e-3a93-4185-ac3b-64acd431d1d2 "Low_Poly_Islands"
+[logo 2]: https://github.com/falahfaz/falahfaz.github.io/assets/140397265/132ec870-7558-4b1a-8ad3-997876bbe2e3 "Low_Poly_Islands"
 
 ## Header 2
 
